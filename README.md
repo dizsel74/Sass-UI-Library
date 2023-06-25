@@ -1,2 +1,2 @@
 # Sass-UI-Libary
- UI librari made with Sass/Scss
+ UI library made with Sass/Scss

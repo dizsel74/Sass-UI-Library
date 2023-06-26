@@ -1,8 +1,8 @@
 {
-  "name": "Sass-UI-Libary",
+  "name": "Sass-UI-Library",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/dizsel74/Sass-UI-Libary.git",
+  "repository": "https://github.com/dizsel74/Sass-UI-Library.git",
   "author": "Arturo Mendoza <91037768+dizsel74@users.noreply.github.com>",
   "license": "MIT",
   "scripts":{

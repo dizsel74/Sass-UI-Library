@@ -1,0 +1,20 @@
+@use 'abstract';
+
+body{
+    font-family: 'Roboto', sans-serif;
+  }
+
+h1{
+  color: abstract.$primary-color;
+}
+
+a{
+  color: abstract.$secondary-color
+}
+
+button{
+  color: abstract.$neutral-color;
+  background: abstract.$primary-color;
+  border: 0;
+}
+

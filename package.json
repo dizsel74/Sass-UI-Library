@@ -1,0 +1,16 @@
+{
+  "name": "Sass-UI-Libary",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dizsel74/Sass-UI-Libary.git",
+  "author": "Arturo Mendoza <91037768+dizsel74@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts":{
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "sass": "^1.63.6"
+  }
+}

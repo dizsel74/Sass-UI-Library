@@ -1,0 +1,11 @@
+
+@use '../abstract/variable';
+
+.primary{
+  color: variable.$neutral-color;
+  background: variable.$primary-color;
+  border: 0;
+  padding: variable.$button-padding;
+  border-radius: variable.$base-border-radius;
+  border-width: variable.$base-border-width;
+}

@@ -1,4 +1,5 @@
 @use 'abstract';
+@use 'components';
 
 body{
     font-family: 'Roboto', sans-serif;
@@ -12,9 +13,4 @@ a{
   color: abstract.$secondary-color
 }
 
-button{
-  color: abstract.$neutral-color;
-  background: abstract.$primary-color;
-  border: 0;
-}
 

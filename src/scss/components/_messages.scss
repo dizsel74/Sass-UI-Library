@@ -1,0 +1,17 @@
+@use '../abstract/variable' as *;
+
+.error{
+  color: $error-color;
+  border-color:  $error-color;
+  border-style: solid;
+  padding: $base-padding;
+  margin: $base-margin;
+}
+
+.notification{
+  color: $secondary-color;
+  border-bottom: $secondary-color;
+  border-style:solid;
+  padding: $base-padding;
+  margin: $base-margin;
+}
